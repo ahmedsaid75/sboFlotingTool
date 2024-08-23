@@ -1,10 +1,13 @@
-C'est un executable Windows, qui s'intègre dans SAP Business one, pour fonctionner comme un Addon.
-Il peux être ajouter dans le menu ![image](https://github.com/user-attachments/assets/80ad1af1-bf46-44d4-98f4-f3bb74e8e616)
-"Lancer application" et le rendre disponible pour tous les utilisateurs.
+This is a Windows executable that integrates with SAP Business One, functioning as an add-on. 
+It can be added to the "Launch Application" image menu ![image](https://github.com/user-attachments/assets/80ad1af1-bf46-44d4-98f4-f3bb74e8e616) and made available to all users.
 
-C'est un premier exemple qui permet d'afficher le DocEntry du document en cours, mais on peut l'améliorer pour l'adopter au n'importe quel besoin, pour pouvoir exploiter la puissance de C# avec la manipulation de tous les objets dans SAP Business one.
+This is a basic example that allows displaying the DocEntry of the current document, but it can be improved to meet any need, leveraging the power of C# to manipulate all objects within SAP Business One.
 
-C-dessous un exemple:
+Below is an example:
 
 ![image](https://github.com/user-attachments/assets/2878cea8-ad12-406c-b791-b5de5845a186)
+
+
+
+
 
